@@ -7,6 +7,6 @@ Zensite Homepage : https://zensite.co
 
 Zensite Service Pages:
 
-1. Web Design (https://zensite.co/web-design)
-2. Web3 Design (https://zensite.co/web3-blockchain-development-agency)
-3. Mobile App Design (https://zensite.co/mobile-app-design)
+1. [Web Design](https://zensite.co/web-design) 
+2. [Web3 Design](https://zensite.co/web3-blockchain-development-agency)
+3. [Mobile App Design](https://zensite.co/mobile-app-design)
